@@ -1,0 +1,17 @@
+@import "../fonts/novecentosanswide/stylesheet.css";
+.novecentos {
+  font-family: 'Novecentosanswide-Medium';
+}
+:root {
+  --teto-blue: #008DCC;
+  --teto-orange: #F2811E;
+}
+
+.teto-blue {         color: var(--teto-blue); }
+.hover-teto-blue:hover {         color: var(--teto-blue); }
+.bg-teto-blue {         background-color: var(--teto-blue); }
+.teto-orange {         color: var(--teto-orange); }
+.hover-teto-orange:hover {         color: var(--teto-orange); }
+.bg-teto-orange {         background-color: var(--teto-orange); }
+
+.min-vh-90 {  min-height:  90vh; }
