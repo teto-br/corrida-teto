@@ -14,4 +14,7 @@
 .hover-teto-orange:hover {         color: var(--teto-orange); }
 .bg-teto-orange {         background-color: var(--teto-orange); }
 
+.b-teto-blue {         border-color: var(--teto-blue); }
+.b-teto-orange {         border-color: var(--teto-orange); }
+
 .min-vh-90 {  min-height:  90vh; }
